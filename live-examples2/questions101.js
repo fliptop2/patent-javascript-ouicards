@@ -8,7 +8,7 @@ var myFlashcards = [     {question:"for 101 just a threshold check",answer:"ultr
 {question:"point of patents is to promote creation&#44; nonnaturally occuring manufacture is patentable&#44; isolated genes and information they encode not patentable",answer:"chakrabarty&#44; hartranft&#44; myriad"},
 {question:"every issued patent presumed proper unless clear and convincing evidence to contrary",answer:"CLS"},
 {question:"claims requiring programs to carry out functions are structural&#44; not intended use",answer:"alappat&#44; ultramercial"},
-{question:just add non-transitory to computer-readable medium to overcome 101,answer:"mewherter"},
+{question:"just add non-transitory to computer-readable medium to overcome 101",answer:"mewherter"},
 {question:"Tests showing pharmacological activity may show a practical utility even though no specific therapeutic use.",answer:"nelson"},
 {question:"tests evidencing pharmacological activity may manifest practical utility even tho no theraputic use because will marshall resources",answer:"cross&#44; nelson"},
 {question:"except process claims&#44; eligible subject matter must exist in some physical or tangible form",answer:"burr&#44; diamond&#44; digitech"},
